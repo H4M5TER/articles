@@ -45,6 +45,7 @@
 - 整理浏览器开着的上百个浏览页 和书签 和标签页组
 - 想让输入法能不打错的地得
 - 想用 Git 管理浏览器书签&标签页组 写浏览器插件？
+- 汉化 Dungeon of Endless [跳转](#Unity-汉化)
 
 ## 学习
 
@@ -90,6 +91,19 @@
 永远的北极熊
 
 ### 游戏
+
+永恒之柱2
+边缘世界
+群星
+暗黑地牢
+文明6
+Baba Is You
+While true: learn
+
+### 多人游戏
+
+神界原罪2
+畸战求生
 
 ## 饼
 
@@ -162,3 +176,10 @@
 ### Aegisub 打轴协作
 
 从前有想让 Aegisub 支持 LiveShare 的想法，后来想给 Aegisub 加一个插件系统的人摸了，后来想造一个新的 Aegisub 的人也摸了。
+
+### Unity 汉化
+
+- <https://github.com/mskgroup/Unity-Game-localization-tutorial-and-toolkit>
+- <https://www.cnblogs.com/guobaoxu/p/12055930.html>
+- <https://www.bilibili.com/video/av47403783>
+- <https://github.com/dmc31a42/UnityL10nTool>
